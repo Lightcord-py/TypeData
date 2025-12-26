@@ -14,6 +14,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+# https://github.com/Lightcord-py/TypeData
+
 from typing import get_type_hints
 
 class TypeData:
